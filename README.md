@@ -7,6 +7,8 @@
 ### Uso
 - La carpeta "Actividad5" contiene el código de cada ejercicio separado según las clases de cada ejercicio
 - Los archivos de Python "Principal.py" al ejecutar en un entorno con la carpeta completa de cada ejercicio, funcionan como el ejecutable del ejercicio
+
+---
 ### Contenido
 1. Ejercicio 8.4 **Cuadros de dialogo**
    - Empleado.py
