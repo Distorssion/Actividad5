@@ -1,0 +1,71 @@
+Nombre: Laura
+Apellidos: Gomez Perez
+Cargo: DIRECTIVO
+Género: FEMENINO
+Salario por día: $150000.00
+Días trabajados: 30
+Otros ingresos: $250000.00
+Pagos por salud: $180000.00
+Aportes a pensiones: $180000.00
+-------------------------------------------------------------
+Nombre: Andres
+Apellidos: Ruiz Torres
+Cargo: ESTRATEGICO
+Género: MASCULINO
+Salario por día: $100000.00
+Días trabajados: 26
+Otros ingresos: $100000.00
+Pagos por salud: $104000.00
+Aportes a pensiones: $104000.00
+-------------------------------------------------------------
+Nombre: Valentina
+Apellidos: Narbatez
+Cargo: ESTRATEGICO
+Género: FEMENINO
+Salario por día: $70000.00
+Días trabajados: 22
+Otros ingresos: $0.00
+Pagos por salud: $61600.00
+Aportes a pensiones: $61600.00
+-------------------------------------------------------------
+Nombre: Mateo
+Apellidos: Rios Lopez
+Cargo: OPERATIVO
+Género: MASCULINO
+Salario por día: $60000.00
+Días trabajados: 1
+Otros ingresos: $150000.00
+Pagos por salud: $2400.00
+Aportes a pensiones: $2400.00
+-------------------------------------------------------------
+Nombre: Camila
+Apellidos: Herrera Castro
+Cargo: OPERATIVO
+Género: FEMENINO
+Salario por día: $85000.00
+Días trabajados: 31
+Otros ingresos: $50000.00
+Pagos por salud: $105400.00
+Aportes a pensiones: $105400.00
+-------------------------------------------------------------
+Nombre: Juan2
+Apellidos: Pablo
+Cargo: DIRECTIVO
+Género: MASCULINO
+Salario por día: $120000.00
+Días trabajados: 30
+Otros ingresos: $0.00
+Pagos por salud: $250000.00
+Aportes a pensiones: $250000.00
+-------------------------------------------------------------
+Nombre: Pablo
+Apellidos: Andres
+Cargo: OPERATIVO
+Género: MASCULINO
+Salario por día: $80000.00
+Días trabajados: 31
+Otros ingresos: $200000.00
+Pagos por salud: $50000.00
+Aportes a pensiones: $60000.00
+-------------------------------------------------------------
+Total de la nómina: $16648200.00
